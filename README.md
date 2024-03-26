@@ -76,12 +76,6 @@ Please cite the following paper corresponding to the repository:
 
 ```
 
-@article{ye2023language,
-  title={Language is All a Graph Needs},
-  author={Ye, Ruosong and Zhang, Caiqi and Wang, Runhui and Xu, Shuyuan and Zhang, Yongfeng},
-  journal={EACL},
-  year={2024}
-}
 
 ```
 
@@ -91,4 +85,3 @@ Please cite the following paper corresponding to the repository:
 
   
 
-[TAPE](https://github.com/XiaoxinHe/TAPE), [GIANT](https://github.com/amzn/pecos/tree/mainline/examples/giant-xrt), [OGB](https://ogb.stanford.edu/docs/home/), [P5](https://github.com/jeykigung/P5), [OpenP5](https://github.com/agiresearch/OpenP5), and [Planetoid](https://arxiv.org/pdf/1603.08861.pdf)
